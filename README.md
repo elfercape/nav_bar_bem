@@ -228,9 +228,3 @@ Durante la demo puedes decir:
 > sino de que el código pueda vivir y crecer en el tiempo.”
 
 ---
-
-### 👉 Si quieres, en el próximo mensaje puedo:
-
-- Adaptar esto a **SCSS**
-- Convertir la demo en **responsive con menú hamburguesa**
-- Prepararlo como **guión para presentar en clase** 👨‍🏫
