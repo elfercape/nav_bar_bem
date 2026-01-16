@@ -1,0 +1,21 @@
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.nav__list {
+  display: flex;
+  gap: 1rem;
+  list-style: none;
+}
+
+.nav__link {
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.nav__button {
+  border: none;
+  cursor: pointer;
+}
