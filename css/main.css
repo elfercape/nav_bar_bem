@@ -2,12 +2,16 @@
 @import 'components/nav.css';
 @import 'skins/nav-theme.css';
 @import 'base/colors.css';
+@import 'still/still.css';
+@import 'skill/skill.css';
+@import 'utilid/utilid.css';
 
 * {
   box-sizing: border-box;
 }
 
 html,
+header,
 body {
   padding: 0;
   margin: 0;

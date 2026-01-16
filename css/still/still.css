@@ -1,0 +1,39 @@
+/* Estructura base del componente */
+.c-card {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 320px;
+  border: 1px solid; /* Solo estructura de borde */
+  overflow: hidden;
+}
+
+.c-card__header {
+  display: flex;
+  justify-content: center;
+  padding: 1.5rem;
+}
+
+.c-card__image {
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+.c-card__body {
+  padding: 1rem;
+  text-align: center;
+}
+
+.c-card__footer {
+  padding: 1rem;
+  margin-top: auto;
+}
+
+.c-card__button {
+  cursor: pointer;
+  padding: 0.75rem;
+  border: none;
+  font-weight: bold;
+}

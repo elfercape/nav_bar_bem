@@ -1,0 +1,14 @@
+/* Margen de 20px */
+.u-m-20 {
+  margin: 20px;
+}
+
+/* Ancho completo */
+.u-w-full {
+  width: 100%;
+}
+
+/* Alineación de texto */
+.u-text-center {
+  text-align: center;
+}

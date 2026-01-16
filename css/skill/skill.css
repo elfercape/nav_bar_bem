@@ -1,0 +1,37 @@
+/* Apariencia y Colores */
+.c-card {
+  background-color: #7717449f;
+  border-color: #323386;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.c-card__title {
+  color: #1a202c;
+  font-size: 1.25rem;
+  margin: 0;
+}
+
+.c-card__subtitle {
+  color: #080a75; /* Color acento */
+  font-size: 0.875rem;
+  margin-bottom: 0.5rem;
+}
+
+.c-card__description {
+  color: #4a5568;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.c-card__button {
+  background-color: #6366f1;
+  color: white;
+  border-radius: 6px;
+  transition: background 0.3s ease;
+}
+
+.c-card__button:hover {
+  background-color: #4f46e5;
+}
